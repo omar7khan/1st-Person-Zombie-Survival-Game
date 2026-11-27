@@ -1,0 +1,6 @@
+{
+  "name": "Sector 4: Quarantine",
+  "description": "A gritty, atmospheric single-file 3D zombie survival first-person shooter set in a dark, overgrown quarantine zone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
